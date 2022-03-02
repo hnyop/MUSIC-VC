@@ -14,7 +14,7 @@
 
 - Then Click On Down One Button 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/5b9c929bb7854027a0ba7.jpg)](https://heroku.com/deploy/)
 
 
 -------------
